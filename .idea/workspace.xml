@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15ab2fbc-276f-40d4-a361-99143c19ceb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WYh6MlEftVY6q3IZb51Ynxm3SJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Burger/BurgerIngredient" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="terminal" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15ab2fbc-276f-40d4-a361-99143c19ceb5" name="Default Changelist" comment="" />
+      <created>1579332260304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579332260304</updated>
+      <workItem from="1579332264497" duration="309000" />
+      <workItem from="1579332613489" duration="1828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1077" y="-478" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579333488392">
+      <screen x="-1080" y="-1221" width="1080" height="1897" />
+    </state>
+    <state x="-1077" y="-478" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.-1221.1080.1897/1792.-777.1080.1897/0.23.1792.1033@-1080.-1221.1080.1897" timestamp="1579333488392" />
+    <state x="-1031" y="-295" key="SettingsEditor" timestamp="1579334489675">
+      <screen x="-1080" y="-1221" width="1080" height="1897" />
+    </state>
+    <state x="-1031" y="-295" key="SettingsEditor/-1080.-1221.1080.1897/1792.-777.1080.1897/0.23.1792.1033@-1080.-1221.1080.1897" timestamp="1579334489675" />
+    <state x="-876" y="-89" width="670" height="675" key="run.anything.popup" timestamp="1579333507868">
+      <screen x="-1080" y="-1221" width="1080" height="1897" />
+    </state>
+    <state x="-876" y="-89" width="670" height="675" key="run.anything.popup/-1080.-1221.1080.1897/1792.-777.1080.1897/0.23.1792.1033@-1080.-1221.1080.1897" timestamp="1579333507868" />
+  </component>
+</project>
